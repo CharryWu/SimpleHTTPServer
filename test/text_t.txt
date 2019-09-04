@@ -1,0 +1,4 @@
+GET /image/1.jpg HTTP/1.1
+Host: localhost
+User-Agent: cse291-tester/1.0
+
