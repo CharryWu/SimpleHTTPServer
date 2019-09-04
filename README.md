@@ -1,6 +1,6 @@
-# cse291-project1: Triton HttpServer
+# Triton HttpServer
 
-Specification: https://cseweb.ucsd.edu/~gmporter/classes/sp18/cse291/post/project1/
+Specification: https://cseweb.ucsd.edu/~gmporter/classes/wi19/cse124/projects/pa1/
 
 ## To build
 
