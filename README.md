@@ -16,8 +16,3 @@ Specification: https://cseweb.ucsd.edu/~gmporter/classes/wi19/cse124/projects/pa
 
 You may extend the server by creating middle ware to handle received Http request.
 Request is parsed into HttpInstruction (found in parser.cpp)
-
-## Author
-Name: Hou Wang
-All rights reserved 
-
